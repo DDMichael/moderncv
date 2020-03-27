@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1585305304 "DaomingDong_CV_English.tex" "DaomingDong_CV_English.pdf" "DaomingDong_CV_English" 1585305326
-  "/dev/null" 1585305324 0 d41d8cd98f00b204e9800998ecf8427e ""
+["pdflatex"] 1585306467 "DaomingDong_CV_English.tex" "DaomingDong_CV_English.pdf" "DaomingDong_CV_English" 1585306484
+  "/dev/null" 1585306473 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomeone.enc" 1463430686 1687 f004baecce60175c6453d0e3f808cf20 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.enc" 1463430686 2437 443c81fb50993bacedc5f9a206c322b0 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc" 1463430686 2679 32dd8ae231bf4a0752b98f62dc097183 ""
@@ -112,9 +112,9 @@
   "/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1557342064 3277517 23507ed665b4dd9046f0f2a94bbef2be ""
   "/usr/local/texlive/2019/texmf-var/web2c/pdftex/pdflatex.fmt" 1561231612 4259636 0bcbc21e82c8ae2bb3173c752835e0af ""
   "/usr/local/texlive/2019/texmf.cnf" 1557341546 577 d150fef99ac436ad1156e86b0892f6ef ""
-  "DaomingDong_CV_English.aux" 1585305305 1371 60691d398452d46d4b9fe0e3f080894b "pdflatex"
-  "DaomingDong_CV_English.out" 1585305305 937 80b5f7748cec1713fa608cdecb855ddf "pdflatex"
-  "DaomingDong_CV_English.tex" 1585305325 16023 0a92f50feec34ae0dc3e9fd5f39a100b ""
+  "DaomingDong_CV_English.aux" 1585306467 1371 60691d398452d46d4b9fe0e3f080894b "pdflatex"
+  "DaomingDong_CV_English.out" 1585306467 937 80b5f7748cec1713fa608cdecb855ddf "pdflatex"
+  "DaomingDong_CV_English.tex" 1585306482 16016 c91eb08f47b8891119a3bad579de8f4a ""
   "moderncv.cls" 1585266573 31496 984d7266f7ea73e27cfd1b603573fd8b ""
   "moderncvbodyiii.sty" 1585266446 10093 06b7b033d6a94df95fa232b79996c331 ""
   "moderncvcollection.sty" 1585266446 3390 d797a6d60ef49f5acd2d573a9a4ba418 ""
@@ -125,7 +125,7 @@
   "moderncvstylebanking.sty" 1585266446 2854 071704da9f3ebcca0ff1017f117823f4 ""
   "tweaklist.sty" 1585266446 1965 0b94f78ada3529c34b6314f7b983075d ""
   (generated)
-  "DaomingDong_CV_English.log"
   "DaomingDong_CV_English.out"
-  "DaomingDong_CV_English.pdf"
   "DaomingDong_CV_English.aux"
+  "DaomingDong_CV_English.pdf"
+  "DaomingDong_CV_English.log"
